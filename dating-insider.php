@@ -256,7 +256,7 @@ padding: 2%;
 
 </span></a></div>
                             <p style="margin-top: 4px;"><span style="padding: 2px 5px; background-color: #1e2b46; color:#fff; font-size: 14px;">*** Testsieger ***</span></p>
-                            <p style="font-size: 14px;">Groß, aktiv und ehrlich.<br><br> Lemonswan gilt als Deutschlands fairste Partnervermittlung und überzeugt in allen Kriterien.</p>
+                            <p style="font-size: 14px;">Groß, aktiv und ehrlich. Lemonswan gilt als Deutschlands fairste Partnervermittlung und überzeugt in allen Kriterien.</p>
 
                             <span ><a href="https://deutschland.dating-insider.net/visit.php?brid=4550&rank=1&kwid=653&vid=list_1" target="_blank" type="button" class="btn btn-success">Zu LemonSwan >></a></span>
             
@@ -287,7 +287,7 @@ padding: 2%;
 
 </span></a></div>
                             <p style="margin-top: 4px;"></p>
-                            <p style="font-size: 14px;">LoveScout24 ist vielen wohl noch besser unter seinem alten Namen FriendScout24 geläufig.<br><br> Ob Love oder Friend, dieses Portal hat generell beides zu bieten und bringt so Menschen zusammen.</p>
+                            <p style="font-size: 14px;">LoveScout24 ist vielen wohl noch besser unter seinem alten Namen FriendScout24 geläufig. Ob Love oder Friend, dieses Portal hat generell beides zu bieten und bringt so Menschen zusammen.</p>
 
                             <span ><a href="https://deutschland.dating-insider.net/visit.php?brid=4550&rank=1&kwid=653&vid=list_1" target="_blank" type="button" class="btn btn-success">Zu LoveScout24 >></a></span>
             
@@ -410,7 +410,7 @@ padding: 2%;
 
                     </span></a></div>
                             <p style="margin-top: 4px;"><span style="padding: 2px 5px; background-color: #1e2b46; color:#fff; font-size: 14px;">FÜR SINGLES AB 40-50 JAHREN`</span></p>
-                            <p style="font-size: 14px;">Zweisam macht gute Arbeit bei der Vermittlung von älteren Singles.<br><br> Arbeit bei der Vermittlung von älteren Singles.</p>
+                            <p style="font-size: 14px;">Zweisam macht gute Arbeit bei der Vermittlung von älteren Singles. Arbeit bei der Vermittlung von älteren Singles.</p>
 
                             <span ><a href="https://deutschland.dating-insider.net/visit.php?brid=4550&rank=1&kwid=653&vid=list_1" target="_blank" type="button" class="btn btn-success">Zu Zweisam >></a></span>
             
