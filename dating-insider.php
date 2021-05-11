@@ -15,143 +15,8 @@ echo '';?>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
     <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.3/css/fontawesome.min.css" integrity="sha384-wESLQ85D6gbsF459vf1CiZ2+rr+CsxRY0RpiF1tLlQpDnAgg6rwdsUF1+Ics2bni" crossorigin="anonymous"> -->
     <!-- <link href="assets/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-wEmeIV1mKuiNpC+IOBjI7aAzPcEZeedi5yW5f2yOq55WWLwNGmvvx4Um1vskeMj0" crossorigin="anonymous"> -->
-    <style>
-.cell{
-    vertical-align:top;
-    display:table-cell;
-    padding:25px 10px 0px 10px;
-}
-
-.rating-pros ul{list-style:none;padding-left:0;}
-
-.overlay-text{
-   
-    position: relative;
-  bottom: 27px;
-  left: 10px;
-  padding: 3px 10px;
-  background-color: #ff0132;
-  color: #ffffff;
-  border-radius: 2px;
-}
-
-        .field-highlighted{color:#fff;padding:5px 6px;line-height:1;background-color:#273550;display:inline-block;margin:1px 0 2px 0;text-transform:uppercase;font-size:11px;}
-        .headernav{
-            color:#3f3f3f;
-           
- 
-
-            font-size: 0.67em;
-            font-size: 12px;
-        }
-        ol, ul {
-    padding-left: 4rem;
-}
-        .headernav:active{
-            color: #ff0132;
-        }
-        .headernav:hover{
-            color:#fff;
-            background-color: #ff0132;;
-        }
-        .breadcrumb{
-           
-            font-size: 10px;
-        }
-        .breadcrumb-link{
-            color: #ff0132;
-        }
- .gradient{
-            background: linear-gradient(
-            45deg
-            ,#fff 0,#fff 25%,rgba(85,85,85,0.05) 0,rgba(85,85,85,0.05) 50%,#fff 0,#fff 75%,rgba(85,85,85,0.05) 0,rgba(85,85,85,0.05) 100%);
-            background-size: 50px 50px;
-            font-size: 16px;
-            color: #3f3f3f;
-            line-height: 1.55;
-            background-color: #ffffff;
-            text-rendering: optimizeLegibility;
-            line-height: 1.2;
-            font-family: 'Lato',Helvetica Neue,Arial,Sans-serif;
-
-        }
-        .heading{
-            font-weight: 700;
-           
-            color: #1e2b46;
-        }
-        .post-info{
-  
-    padding-right: 5px;
-    border-right: 1px solid #7d7d7d;
-
-        }
-        .post-info2{
-            font-size: 10px;
-    color: #7d7d7d;
-    padding-right: 5px;
-
-        } 
-        .peragraph{
-            
-            font-size: 18px;
-    line-height: 1.33;
-        }
-        .card {
-  border-radius: 0;
-
-}
-
-.card-header{
-    border-radius: 0 !important;
-    background-color: #1e2b46;
-    color:#ffffff;
-padding: 2%;
-}
-
-.card-header:hover{ transition: 0.5s;
-    border-radius: 0 !important;
-    background-color: #ffffff;
-    color:#ff0132
-}
-.footernav{
-    text-decoration:none; 
-    color:black
-}
-.footernav:hover{transition: 0.5s;
-    background-color:red;
-    color:white;
-}
-        @media only screen and (max-width: 800px) {
-
-            .gradient{
-                background:#fff;
-                font-size: 16px;
-                color: #3f3f3f;
-                line-height: 1.55;
-                background-color: #ffffff;
-                text-rendering: optimizeLegibility;
-            }
-            .logo{
-                margin-top: 4%;
-                margin-bottom: 4%;
-            }
-            .rating-card{
-                margin-top: 4%;
-            }
-            .overlay-text{
-   
-   position: relative;
- bottom: 30px;
- left: 10px;
- padding: 2px 8px;
- background-color: #ff0132;
- color: #ffffff;
- border-radius: 2px;
-}
- 
-        }
-    </style>
+    <link rel="stylesheet" href="./assets/css/style.css">
+    
 </head>
 <body class="gradient .d-sm-none .d-xs-none .d-md-block .d-lg-block .d-xl-block">
     <div class="container-md .d-sm-none .d-xs-none .d-md-block .d-lg-block .d-xl-block " style="background-color: #ffffff; ">
@@ -594,7 +459,7 @@ Ein weiteres Indiz für eine seriöse Plattform sind die Kosten.<br><br> Gute Da
     <span style="padding: 2px 5px; background-color: #1e2b46; color:#fff; font-size: 14px;">*** Testsieger ***</span>
     <div class="mb-3"></div>
     <div class="col-md-12">
-        <img src="./assets/img/cover.jpeg" alt="" class="img-fluid">
+        <img src="./assets/img/Lemonswan1.jpeg" alt=""  class="img-fluid">
     </div>
 <button type="button" class="btn btn-success">Zu LemonSwan >></button>
 </div>
@@ -1165,6 +1030,34 @@ font-size: 28px;
                   <div class="row ">
            <div class="col-md-12 mt-3 mb-3">
            Copyright © 2014-2021, Online Experten Eins GmbH. All rights reserved.
-</div></div></div>
+</div>
+</div>        <div id="toTop"><i class="fa fa-long-arrow-up"></i></div></div>
+
+
+    
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+        <script>
+        $(document).ready(function(){
+	
+            //Check to see if the window is top if not then display button
+            $(window).scroll(function(){
+
+                // Show button after 100px
+                var showAfter = 100;
+                if ($(this).scrollTop() > showAfter) {                 
+                    $('#toTop').fadeIn();
+                } else {   
+                    $('#toTop').fadeOut();
+                }
+            });
+            
+            //Click event to scroll to top
+            $('#toTop').click(function(){
+                $('html, body').animate({scrollTop : 0},800);
+                return false;
+            });
+            
+        });
+        </script>
 </body>
 </html>
